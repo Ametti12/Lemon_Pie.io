@@ -1,0 +1,24 @@
+.lemon{
+
+    margin-top: 30px;
+    background-image: url("/img/lemon-pie2.jpeg");
+    background-size: cover;
+    padding-top: 160px;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+header{
+    color: aliceblue;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    text-align: left;
+}
+
+h3{
+    font-style: italic;
+}
